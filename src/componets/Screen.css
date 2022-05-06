@@ -1,0 +1,15 @@
+.Table{ 
+    width: 1000px;
+    margin: 10px; 
+    margin-right: auto; 
+    margin-left: auto;  
+    height: 200px;
+} 
+@media(max-width:600px){ 
+    .Table{ 
+        width: 100px; 
+        height: 100px; 
+        margin-right: auto; 
+        margin-left: auto;
+    }
+}

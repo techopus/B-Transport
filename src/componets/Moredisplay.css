@@ -1,0 +1,8 @@
+.Table{ 
+    display: grid !important;
+    place-items: center;
+    margin-top: 24px;
+} 
+.MuiPaper-root {
+    width: fit-content;
+  }
