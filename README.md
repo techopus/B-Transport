@@ -3,6 +3,8 @@
 
 LIVE DEMO : https://berlintransport.herokuapp.com/
 
+Wait for 2 seconds after site completes loading.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
